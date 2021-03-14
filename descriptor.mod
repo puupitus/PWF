@@ -3,5 +3,5 @@ tags={
 	"Graphics"
 }
 name="Puupi's White Font"
-supported_version="1.9.1"
+supported_version="1.10.4"
 remote_file_id="2065855609"
